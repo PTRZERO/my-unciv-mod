@@ -1,5 +1,19 @@
 [
 	{
-		"name":"soviet"
+		"name":"Soviet",
+		"leaderName":"Stalin",
+		"preferredVictoryType":"Diplomatic",
+		"startIntroPart1":"The first socialist country",
+		"declaringWar":"The great Soviet is not something you can defeat",
+		"attacked":"Solemn silence",
+		"defeated":"Revolution never fails",
+		"introduction":"I'm glad to meet you, comrade",
+		"neutralHello":"Workers of the world, unite",
+		"hateHello":"Despicable enemy",
+		"tradeRequest":"It's a deal",
+		"outerColor":[255,0,0],
+		"innerColor":[255,255,0],
+		"uniques":[],
+		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
