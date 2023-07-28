@@ -13,6 +13,7 @@
 		"tradeRequest":"It's a deal",
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
+		"uniqueText":"True planned economy",
 		"uniques":[],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
