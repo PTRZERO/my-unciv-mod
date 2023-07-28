@@ -3,7 +3,6 @@
 		"name":"Soviet",
 		"leaderName":"Joseph Vissarionovich Stalin",
 		"preferredVictoryType":"Diplomatic",
-		"startIntroPart1":"The first socialist country",
 		"declaringWar":"The great Soviet is not something you can defeat",
 		"attacked":"Solemn silence",
 		"defeated":"Revolution never fails",
@@ -14,7 +13,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueText":"True planned economy",
-		"uniques":["[+2 Production,+1 Science,+1 Food,+1 Gold] per [5] population [in all cities]"],
+		"uniques":["[+2 Production] per [2] population [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
