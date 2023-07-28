@@ -13,7 +13,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"International Revolution",
-		"uniques":["[+2 Production,+1 Food] per [2] population [in all cities]"],
+		"uniques":["[+1 Gold, +2 Production] per [3] population [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
