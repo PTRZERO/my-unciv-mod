@@ -13,7 +13,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"International Revolution",
-		"uniques":["[+2 Science, +2 Production, +1 Gold, -1 Food, -1 Happiness] per [3] population [in all cities]","City-State territory always counts as friendly territory","[-50]% City-State Influence degradation","Resting point for Influence with City-States is increased by [20]","Allied City-States provide [Gold] equal to [30]% of what they produce for themselves"],
+		"uniques":["[+2 Science, +2 Production, +1 Gold, -1 Food, -1 Happiness] per [3] population [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
