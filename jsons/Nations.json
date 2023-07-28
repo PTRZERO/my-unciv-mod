@@ -14,7 +14,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueText":"True planned economy",
-		"uniques":[],
+		"uniques":["[+2 production,+1 science,+1 food,+1 gold,-2 happiness] per [3] population [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
