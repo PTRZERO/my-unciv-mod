@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name":"International Socialist University",
+    "cost":2200,
+    "maintenance":5,
+    "isNationalWonder":true,
+    "uniqueTo":"Soviet",
+    "uniques":["Gifts of Gold to City-States generate [+50]% more Influence","City-State territory always counts as friendly territory","[-15]% City-State Influence degradation","Resting point for Influence with City-States is increased by [20]","Resting point for Influence with City-States is increased by [30] <after adopting [Patronage Complete]>"]
+  }
+]
