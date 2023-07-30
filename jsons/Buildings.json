@@ -1,11 +1,11 @@
 [
   {
     "name":"International Socialist University",
-    "cost":20,
+    "cost":4000,
     "maintenance":25,
     "isWonder":true,
     "uniqueTo":"Soviet",
-    "uniques":["Gifts of Gold to City-States generate [-75]% more Influence","City-State territory always counts as friendly territory","[50]% City-State Influence degradation","Resting point for Influence with City-States is increased by [10]","Resting point for Influence with City-States is increased by [10] <after adopting [Patronage Complete]>","Resting point for Influence with City-States is increased by [10] <after adopting [Order Complete]>","Resting point for Influence with City-States is increased by [5] <after discovering [Education]>","Resting point for Influence with City-States is increased by [5] <after discovering [Printing Press]>","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","Allied City-States provide [Science] equal to [25]% of what they produce for themselves","Allied City-States provide [Culture] equal to [25]% of what they produce for themselves","Triggers a global alert upon build start"]
+    "uniques":["Gifts of Gold to City-States generate [-75]% more Influence","City-State territory always counts as friendly territory","[50]% City-State Influence degradation","Resting point for Influence with City-States is increased by [10]","Resting point for Influence with City-States is increased by [10] <after adopting [Patronage Complete]>","Resting point for Influence with City-States is increased by [10] <after adopting [Order Complete]>","Resting point for Influence with City-States is increased by [5] <after discovering [Education]>","Resting point for Influence with City-States is increased by [5] <after discovering [Printing Press]>","Allied City-States provide [Gold] equal to [25]% of what they produce for themselves","Allied City-States provide [Science] equal to [25]% of what they produce for themselves","Allied City-States provide [Culture] equal to [25]% of what they produce for themselves","Triggers a global alert upon build start","Requires at least [20] population"]
     "civilopediaText":[
       {"text":"After thousands of trials and tribulations, the Soviets finally established a university that spread the revolution to the world"},
       {"text":"Let the light of communism spread all over the world!","color":"#FF0000"}
