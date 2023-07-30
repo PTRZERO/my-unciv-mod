@@ -13,7 +13,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"Communist Party in power",
-		"uniques":["[+2 Science, +2 Production, -2 Gold, +2 Food, -2 Happiness] per [5] population [in all cities]","May not generate great prophet equivalents naturally"],
+		"uniques":["[+2 Science, +2 Production, -2 Gold, +2 Food, -2 Happiness] per [5] population [in all cities]","May not generate great prophet equivalents naturally","Empire enters a [30]-turn Golden Age <after adopting [Order Complete]>"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
