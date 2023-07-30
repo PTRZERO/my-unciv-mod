@@ -2,9 +2,9 @@
   {
     "name":"International Socialist University",
     "cost":2200,
-    "maintenance":0,
+    "maintenance":25,
     "isNationalWonder":true,
     "uniqueTo":"Soviet",
-    "uniques":["Gifts of Gold to City-States generate [50]% more Influence","City-State territory always counts as friendly territory","[-15]% City-State Influence degradation","Resting point for Influence with City-States is increased by [10]","Resting point for Influence with City-States is increased by [10] <after adopting [Patronage Complete]>","Allied City-States provide [Gold] equal to [60]% of what they produce for themselves","Allied City-States provide [Science] equal to [100]% of what they produce for themselves","[-10]% [Gold]"]
+    "uniques":["Gifts of Gold to City-States generate [50]% more Influence","City-State territory always counts as friendly territory","[-15]% City-State Influence degradation","Resting point for Influence with City-States is increased by [10]","Resting point for Influence with City-States is increased by [10] <after adopting [Patronage Complete]>","Resting point for Influence with City-States is increased by [10] <after adopting [Order Complete]>","Resting point for Influence with City-States is increased by [5] <after discovering [Education]>","Resting point for Influence with City-States is increased by [10] <after discovering [Printing Press]>","Allied City-States provide [Gold] equal to [40]% of what they produce for themselves","Allied City-States provide [Science] equal to [75]% of what they produce for themselves"]
   }
 ]
