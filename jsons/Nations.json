@@ -12,7 +12,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"Communist Party in power",
-		"uniques":["[+1 Science, +2 Production, -1 Happiness] per [5] population [in all non-occupied cities]","[+10]% of excess happiness converted to [Science]","[+30]% Production when constructing [All] units [in all cities] <when at war>","[+3 Production, +2 Science] [in all non-occupied cities] <when above [0] Happiness>","[-10]% Production when constructing [All] units [in enemy cities]"],
+		"uniques":["[+3 Science, +2 Production] per [10] population [in all non-occupied cities]","[-2 Happiness] per [5] population [in all cities]","[+10]% of excess happiness converted to [Science]","[+30]% Production when constructing [All] units [in all cities] <when at war>","[+3 Production, +2 Science] [in all non-occupied cities] <when above [0] Happiness>","[-10]% Production when constructing [All] units [in enemy cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
