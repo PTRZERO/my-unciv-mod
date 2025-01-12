@@ -1,22 +1,19 @@
 [
-{
-"名称"："苏联"、
-"领导人名称"："约瑟夫-维萨里昂诺维奇-斯大林"、
-"首选胜利类型"："外交"、
-"宣战"："伟大的苏联不是你能打败的"、
-"进攻"："庄严的沉默"、
-"失败"："革命永不失败"、
-"介绍"："很高兴见到你，同志"、
-"neutralHello": "全世界工人团结起来"、
-"hateHello"："卑鄙的敌人"、
-"tradeRequest":"It's a deal" 、
-"outerColor":[255,0,0] 、
-"innerColor":[255,255,0] 、
-"uniqueName"："共产党执政"、
-"唯一"：["每 [3] [所有城市] 人口[+1 科学、+1 生产、+1 黄金、-1 食物、-1 幸福]","不可自然生成伟大先知等价物","帝国进入 [30]-turn 黄金时代<在采用 [Order Complete]> 之后" ] 、
-"城市"：["Moscow","Kiev ","Minsk","Kursk","Leningrad",<a29>"Murmansk","Stalingrad" 、 "喀山"、"秋明"、"车里雅宾斯克"、"新西伯利亚"、"伊尔库茨克"、"符拉迪沃斯托克"]。
-}
+	{
+		"name":"Soviet",
+		"leaderName":"Joseph Vissarionovich Stalin",
+		"preferredVictoryType":"Diplomatic",
+		"declaringWar":"The great Soviet is not something you can defeat",
+		"attacked":"Solemn silence",
+		"defeated":"Revolution never fails",
+		"introduction":"I'm glad to meet you, comrade",
+		"neutralHello":"Workers of the world, unite",
+		"hateHello":"Despicable enemy",
+		"tradeRequest":"It's a deal",
+		"outerColor":[255,0,0],
+		"innerColor":[255,255,0],
+		"uniqueName":"Communist Party in power",
+		"uniques":["[+2 Science, +2 Production, -2 Gold, +2 Food, -2 Happiness] per [5] population [in all cities]","May not generate great prophet equivalents naturally","Empire enters a [30]-turn Golden Age <after adopting [Order Complete]>"],
+		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
+	}
 ]
-
-
-
