@@ -2,7 +2,6 @@
 	{
 		"name":"Soviet",
 		"leaderName":"Joseph Vissarionovich Stalin",
-		"preferredVictoryType":"Diplomatic",
 		"declaringWar":"The great Soviet is not something you can defeat",
 		"attacked":"Solemn silence",
 		"defeated":"Revolution never fails",
@@ -13,7 +12,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"Communist Party in power",
-		"uniques":["[+1 Science, +1 Production, -2 Food, -1 Happiness] per [5] population [in all cities]","May not generate great prophet equivalents naturally","Empire enters a [30]-turn Golden Age <after adopting [Order Complete]>","[-50]% City-State Influence degradation","[+10]% unhappiness from the number of cities","[+50]% of excess happiness converted to [Science]","[+30]% of excess happiness converted to [Culture]","May heal outside of friendly territory","[20] units cost no maintenance","Gifts of Gold to City-States generate [+30]% more Influence","[+150]% Production when constructing [Melee] units [in all cities]","[+3 Production, -2 Happiness] [in all cities]"],
+		"uniques":["[+1 Science, +1 Production] per [2] population [in all cities]","[+30]% of excess happiness converted to [Science]","[+20]% of excess happiness converted to [Golden]","[+100]% Production when constructing [All] units [in all cities]","[+3 Production, +3 Science] [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
