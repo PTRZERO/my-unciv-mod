@@ -12,7 +12,7 @@
 		"outerColor":[255,0,0],
 		"innerColor":[255,255,0],
 		"uniqueName":"Communist Party in power",
-		"uniques":["[+1 Science, +1 Production] per [2] population [in all cities]","[+50]% of excess happiness converted to [Science]","[+100]% Production when constructing [All] units [in all cities]","[+3 Production, +3 Science] [in all cities]"],
+		"uniques":["[+1 Science, +1 Production] per [5] population [in all cities]","[+20]% of excess happiness converted to [Science]","[+60]% Production when constructing [All] units [in all cities]","[+2 Production, +2 Science] [in all cities]"],
 		"cities":["Moscow", "Kiev", "Minsk", "Kursk", "Leningrad", "Murmansk", "Stalingrad", "Kazan", "Tyumen", "Chelyabinks", "Novosibirsk", "Irkutsk", "Vladivostok gram"]
 	}
 ]
